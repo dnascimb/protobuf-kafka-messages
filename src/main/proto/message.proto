@@ -5,6 +5,5 @@ message Message
 {
     required string created_datetime = 1;
     required string user_id = 2;
-    required string user_guid = 3;
-    optional string event_data = 15;
+    optional string msg_data = 3;
 }

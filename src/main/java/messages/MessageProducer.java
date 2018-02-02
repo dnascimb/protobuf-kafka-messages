@@ -31,9 +31,8 @@ public class MessageProducer extends Thread {
 
             Message message = Message.newBuilder()
                 .setCreatedDatetime(new Date().toString())
-                .setUserId("user" + messageNo)
-                .setUserGuid(java.util.UUID.randomUUID().toString())
-                .setEventData("{ \"event\": \"LOGIN\" }")
+                .setUserId(java.util.UUID.randomUUID().toString())
+                .setMsgData("LOGIN")
                 .build()
                 ;
             try {
