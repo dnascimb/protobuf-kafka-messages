@@ -167,166 +167,86 @@ log4j:WARN Please initialize the log4j system properly.
 log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
 starting MessageProducer
 starting MessageConsumer
-Sent message: (1, created_datetime: "Thu Feb 01 16:04:49 PST 2018"
-user_id: "8588d691-5a14-45ae-9653-683e083c9c7c"
+Sent message: (1, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "b6f0f116-3f15-4bee-9435-19ed188506fd"
 msg_data: "LOGIN"
 )
-Sent message: (2, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "928c1249-e4d8-4331-b999-de835a19f111"
+Sent message: (2, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "61921ef6-8fba-4971-b579-f312d16eba87"
 msg_data: "LOGIN"
 )
-Sent message: (3, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "9fc636ea-5d3b-4526-8e26-ea57ca5715a2"
+Sent message: (3, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "0491ed60-ba4f-4197-b55d-d2a6e442b119"
 msg_data: "LOGIN"
 )
-Sent message: (4, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "4f6d2465-a833-47c1-a5d7-3810a4dab834"
+Sent message: (4, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "f810e74b-543b-4a12-8f50-4a4490479228"
 msg_data: "LOGIN"
 )
-Sent message: (5, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "77a65a0f-2bd9-4ed3-9863-fffac4f2ff07"
+Sent message: (5, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "68b7047b-3336-464f-92eb-d6237ad8f430"
 msg_data: "LOGIN"
 )
-Sent message: (6, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "e2652502-91ce-4bdc-8dd6-1e6617061636"
+Sent message: (6, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "402ce067-0bdb-442d-8dd2-cdaaf7a5eb66"
 msg_data: "LOGIN"
 )
-Sent message: (7, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "201c5324-2e16-426a-9b80-31302c3ce503"
+Sent message: (7, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "123fa210-51a2-43ff-8521-a2c514ef449b"
 msg_data: "LOGIN"
 )
-Sent message: (8, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "7d8db0b1-335d-43ea-9043-4e3c81529fb4"
+Sent message: (8, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "37e2e995-93a6-4317-8631-8d066c14276f"
 msg_data: "LOGIN"
 )
-Sent message: (9, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "dafed56e-e673-4bc0-9057-cbfad0b443bd"
+Sent message: (9, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "2be0d476-6a0f-4c9c-a989-07ec6fa193a5"
 msg_data: "LOGIN"
 )
-Sent message: (10, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "73aea2a0-3cb8-481b-b736-df23a9f53237"
+Sent message: (10, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "0c96e6ba-11f0-425c-8010-ce23f5463fa2"
 msg_data: "LOGIN"
 )
-Received message: (1, created_datetime: "Thu Feb 01 16:03:36 PST 2018"
-user_id: "8ceab709-4df5-469d-a9af-7e11b5ab6c95"
+Received message: (1, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "b6f0f116-3f15-4bee-9435-19ed188506fd"
 msg_data: "LOGIN"
-) at offset 50
-Received message: (2, created_datetime: "Thu Feb 01 16:03:36 PST 2018"
-user_id: "e6d075ea-0865-494b-b24c-b442d1128849"
+) at offset 80
+Received message: (2, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "61921ef6-8fba-4971-b579-f312d16eba87"
 msg_data: "LOGIN"
-) at offset 51
-Received message: (3, created_datetime: "Thu Feb 01 16:03:36 PST 2018"
-user_id: "008e9be6-57a3-4f00-97c6-1a5069e93dd0"
+) at offset 81
+Received message: (3, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "0491ed60-ba4f-4197-b55d-d2a6e442b119"
 msg_data: "LOGIN"
-) at offset 52
-Received message: (4, created_datetime: "Thu Feb 01 16:03:36 PST 2018"
-user_id: "44f55123-4f24-4203-ab0a-8c72b8b64c44"
+) at offset 82
+Received message: (4, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "f810e74b-543b-4a12-8f50-4a4490479228"
 msg_data: "LOGIN"
-) at offset 53
-Received message: (5, created_datetime: "Thu Feb 01 16:03:36 PST 2018"
-user_id: "9a2c83f9-7964-4944-b7e3-c1c216a5ec52"
+) at offset 83
+Received message: (5, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "68b7047b-3336-464f-92eb-d6237ad8f430"
 msg_data: "LOGIN"
-) at offset 54
-Received message: (6, created_datetime: "Thu Feb 01 16:03:36 PST 2018"
-user_id: "d9a577eb-18fa-479e-ad00-c8625a186c28"
+) at offset 84
+Received message: (6, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "402ce067-0bdb-442d-8dd2-cdaaf7a5eb66"
 msg_data: "LOGIN"
-) at offset 55
-Received message: (7, created_datetime: "Thu Feb 01 16:03:36 PST 2018"
-user_id: "882f23b3-2631-4b63-9906-3766e0f146e0"
+) at offset 85
+Received message: (7, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "123fa210-51a2-43ff-8521-a2c514ef449b"
 msg_data: "LOGIN"
-) at offset 56
-Received message: (8, created_datetime: "Thu Feb 01 16:03:36 PST 2018"
-user_id: "099e5136-0efe-4b99-9559-090bf1f8afee"
+) at offset 86
+Received message: (8, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "37e2e995-93a6-4317-8631-8d066c14276f"
 msg_data: "LOGIN"
-) at offset 57
-Received message: (9, created_datetime: "Thu Feb 01 16:03:36 PST 2018"
-user_id: "0b40c4c1-8be3-4bd7-b9f4-f8c717a2415c"
+) at offset 87
+Received message: (9, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "2be0d476-6a0f-4c9c-a989-07ec6fa193a5"
 msg_data: "LOGIN"
-) at offset 58
-Received message: (10, created_datetime: "Thu Feb 01 16:03:36 PST 2018"
-user_id: "78cfda07-dd58-43d4-865d-90082fc0566f"
+) at offset 88
+Received message: (10, created_datetime: "Thu Feb 01 16:08:49 PST 2018"
+user_id: "0c96e6ba-11f0-425c-8010-ce23f5463fa2"
 msg_data: "LOGIN"
-) at offset 59
-Received message: (1, created_datetime: "Thu Feb 01 16:03:55 PST 2018"
-user_id: "2bda8a12-d318-494a-acc2-9cea46006319"
-msg_data: "LOGIN"
-) at offset 60
-Received message: (2, created_datetime: "Thu Feb 01 16:03:55 PST 2018"
-user_id: "54c9bcc7-368e-44c7-87b3-6cdf5502b87c"
-msg_data: "LOGIN"
-) at offset 61
-Received message: (3, created_datetime: "Thu Feb 01 16:03:55 PST 2018"
-user_id: "0d30d122-f894-4a7f-9a42-11492e66e572"
-msg_data: "LOGIN"
-) at offset 62
-Received message: (4, created_datetime: "Thu Feb 01 16:03:55 PST 2018"
-user_id: "fd8b57f3-e287-4f07-bee9-116d69288085"
-msg_data: "LOGIN"
-) at offset 63
-Received message: (5, created_datetime: "Thu Feb 01 16:03:55 PST 2018"
-user_id: "17fde288-99b7-4930-8ebe-52b51db61274"
-msg_data: "LOGIN"
-) at offset 64
-Received message: (6, created_datetime: "Thu Feb 01 16:03:55 PST 2018"
-user_id: "ce153a42-3133-4b39-9965-4e94636ada92"
-msg_data: "LOGIN"
-) at offset 65
-Received message: (7, created_datetime: "Thu Feb 01 16:03:55 PST 2018"
-user_id: "c0f14f2f-0a98-4203-8c17-8dd939a98edf"
-msg_data: "LOGIN"
-) at offset 66
-Received message: (8, created_datetime: "Thu Feb 01 16:03:55 PST 2018"
-user_id: "3ab3a88b-1a8d-4635-b6a5-cbc0d3b26ece"
-msg_data: "LOGIN"
-) at offset 67
-Received message: (9, created_datetime: "Thu Feb 01 16:03:55 PST 2018"
-user_id: "69b37a41-91e4-4912-b882-6ba3de99da70"
-msg_data: "LOGIN"
-) at offset 68
-Received message: (10, created_datetime: "Thu Feb 01 16:03:55 PST 2018"
-user_id: "75ba1e55-797d-4e9c-a17a-b4bb8e1edc4b"
-msg_data: "LOGIN"
-) at offset 69
-Received message: (1, created_datetime: "Thu Feb 01 16:04:49 PST 2018"
-user_id: "8588d691-5a14-45ae-9653-683e083c9c7c"
-msg_data: "LOGIN"
-) at offset 70
-Received message: (2, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "928c1249-e4d8-4331-b999-de835a19f111"
-msg_data: "LOGIN"
-) at offset 71
-Received message: (3, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "9fc636ea-5d3b-4526-8e26-ea57ca5715a2"
-msg_data: "LOGIN"
-) at offset 72
-Received message: (4, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "4f6d2465-a833-47c1-a5d7-3810a4dab834"
-msg_data: "LOGIN"
-) at offset 73
-Received message: (5, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "77a65a0f-2bd9-4ed3-9863-fffac4f2ff07"
-msg_data: "LOGIN"
-) at offset 74
-Received message: (6, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "e2652502-91ce-4bdc-8dd6-1e6617061636"
-msg_data: "LOGIN"
-) at offset 75
-Received message: (7, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "201c5324-2e16-426a-9b80-31302c3ce503"
-msg_data: "LOGIN"
-) at offset 76
-Received message: (8, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "7d8db0b1-335d-43ea-9043-4e3c81529fb4"
-msg_data: "LOGIN"
-) at offset 77
-Received message: (9, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "dafed56e-e673-4bc0-9057-cbfad0b443bd"
-msg_data: "LOGIN"
-) at offset 78
-Received message: (10, created_datetime: "Thu Feb 01 16:04:50 PST 2018"
-user_id: "73aea2a0-3cb8-481b-b736-df23a9f53237"
-msg_data: "LOGIN"
-) at offset 79
+) at offset 89
 ```
 
 
